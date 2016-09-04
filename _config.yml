@@ -1,0 +1,20 @@
+# Site settings
+title: GT Artigos
+header-img: img/home-bg.jpg
+email: artigosgt@gmail.com
+copyright_name: Infoway Teresina
+description: "Artigos sobre os mais diversos temas voltado para tecnologia por colaboradores da GT-Infoway"
+#url: "http://exemplo.com"
+twitter_username: 
+github_username:  artigosgt
+facebook_username: 
+email_username: artigosgt@gmail.com
+
+# Build settings
+markdown: kramdown
+paginate: 50
+highlighter: rouge
+permalink: pretty
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
