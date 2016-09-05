@@ -6,7 +6,7 @@ Eis que numa mesa de bar, surge a ideia de criar artigos.
 ## Workflow para colaboração
 Para colaborar com algum artigo, o autor deve seguir o seguinte fluxo:
 
-1. Abrir uma [issue](https://github.com/douglasalexandre/douglasalexandre.github.io/issues) contendo:
+1. Abrir uma [issue](https://github.com/artigosgt/artigosgt.github.io/issues/new) contendo:
 	- Título do artigo
 	- Descrição sucinta do artigo
 	- Data de publicação
@@ -14,8 +14,8 @@ Para colaborar com algum artigo, o autor deve seguir o seguinte fluxo:
 3. Certificar-se de que o artigo se encontra sob a licença [Creative Commons](https://br.creativecommons.org/)
 
 ## Como fazer Pull Request do artigo
-- Faça um fork, baixe ou clone o repositório `https://github.com/douglasalexandre/douglasalexandre.github.io.git`
-- Escreva seu artigo dentro do diretório [`_posts`](https://github.com/douglasalexandre/douglasalexandre.github.io/tree/master/_posts) (que contém todos os posts do blog e que por sua vez são escritos na linguagem de marcação markdown).
+- Faça um fork, baixe ou clone o repositório `https://github.com/artigosgt/artigosgt.github.io.git`
+- Escreva seu artigo dentro do diretório [`_posts`](https://github.com/artigosgt/artigosgt.github.io/tree/master/_posts) (que contém todos os posts do blog e que por sua vez são escritos na linguagem de marcação markdown).
 - Faça o Pull Request
 
 ## Estrutura do post
@@ -34,7 +34,7 @@ Para colaborar com algum artigo, o autor deve seguir o seguinte fluxo:
 	---
 
 ### Como salvar imagens
-Caso seu post tenha imagens, você deve adiciona-las no diretório [`img`](https://github.com/douglasalexandre/douglasalexandre.github.io/tree/master/img). **Porém não insira a imagem na raíz do diretório!** Crie um novo diretório com o nome do seu usuário e salve suas imagens nele. ;)
+Caso seu post tenha imagens, você deve adiciona-las no diretório [`img`](https://github.com/artigosgt/artigosgt.github.io/tree/master/img). **Porém não insira a imagem na raíz do diretório!** Crie um novo diretório com o nome do seu usuário e salve suas imagens nele. ;)
 
 Sempre que você for utilizar a imagem, insira o caminho dela: `img/nomeDoUsuario/imagem.jpg`
 
@@ -49,7 +49,7 @@ Para escrever seu artigo, você pode utilizar editores markdown como o [MacDown]
 ## Revisão dos artigos
 É importante os colaboradores revisarem os artigos para não serem publicados com erros ortográficos ou erros técnicos!
 
-Você já pode ir fazendo Pull Request do seu artigo dentro do diretório [`_posts`](https://github.com/douglasalexandre/douglasalexandre.github.io/tree/master/_posts), pois ele só será exibido quando a data que foi especificada no cabeçalho chegar!
+Você já pode ir fazendo Pull Request do seu artigo dentro do diretório [`_posts`](https://github.com/artigosgt/artigosgt.github.io/tree/master/_posts), pois ele só será exibido quando a data que foi especificada no cabeçalho chegar!
 
 **É muito importante seu artigo estar pronto alguns dias antes da data de publicação, caso contrário medidas serão tomadas para manter as publicações diárias.**
 
